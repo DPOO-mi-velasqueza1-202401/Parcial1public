@@ -31,7 +31,7 @@ public abstract class TMB {
 	public void setEdadAños(int edadAños) {
 		this.edadAños = edadAños;
 	}
-	
-		
-}
+
+	}
+
 

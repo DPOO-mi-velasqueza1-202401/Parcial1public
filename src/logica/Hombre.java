@@ -2,6 +2,8 @@ package logica;
 
 public class Hombre extends TMB {
 
+	public Hombre() {
+	}
 	
 	@Override
 	protected double calcularTMB(int pesoKg, int alturaCm, int edadAños) {

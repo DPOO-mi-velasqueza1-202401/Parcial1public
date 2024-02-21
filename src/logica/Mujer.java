@@ -2,6 +2,9 @@ package logica;
 
 public class Mujer extends TMB{
 
+	public Mujer() {
+		// TODO Auto-generated constructor stub
+	}
 	@Override
 	protected double calcularTMB(int pesoKg, int alturaCm, int edadAños) {
 		// TODO Auto-generated method stub

@@ -16,7 +16,7 @@ public class Consola {
 			genero = read.readLine();
 			if (genero == "Hombre") {
 				double TMB;
-				TMB = logica.Hombre.
+				
 			}
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
