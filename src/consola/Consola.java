@@ -4,8 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import logica.Hombre;
-
 public class Consola {
 
 	public static void main(String[] args) {
@@ -15,6 +13,10 @@ public class Consola {
 		try {
 			genero = read.readLine();
 			if (genero == "Hombre") {
+				double TMB;
+				
+			}
+			else {
 				double TMB;
 				
 			}
